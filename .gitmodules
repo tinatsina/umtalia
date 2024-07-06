@@ -1,3 +1,6 @@
 [submodule "SWITCHING_POWER_SUPPLY"]
 	path = SWITCHING_POWER_SUPPLY
 	url = git@github.com:tinatsina/switching_power_supply.git
+[submodule "QT_DASHBOARD"]
+	path = QT_DASHBOARD
+	url = git@github.com:tinatsina/qt_dashboard.git
